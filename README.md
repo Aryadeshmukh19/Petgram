@@ -105,6 +105,7 @@ npm start
 Frontend will start on: http://localhost:3000
 
 🌟 Future Scope
+
 Pet profiles with followers and badges 🐾
 
 Direct messaging between users
