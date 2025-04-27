@@ -1,5 +1,5 @@
 # Petgram
-🐾 PetGram — A Social Media Platform for Pets
+🐾 PetGram — A Social Media Platform for Pets.
 PetGram is a full-stack web application where pets are the real influencers!
 Users can register, log in, share adorable moments of their pets, like and comment on posts, and explore a beautiful pet community.
 
